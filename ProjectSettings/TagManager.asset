@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - LevelBorder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3316650467
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 453103337
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3244103133
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3135645613
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 2000707089
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1308504597
+    locked: 0
+  m_RenderingLayers:
+  - Default
