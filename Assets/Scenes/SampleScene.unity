@@ -2026,6 +2026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaf4f6ee0b5c85d4e916078386996686, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GroundDetector
+  <IsGround>k__BackingField: 0
 --- !u!70 &1784840817
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

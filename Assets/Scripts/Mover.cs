@@ -4,8 +4,6 @@ using UnityEngine;
 public class Mover : MonoBehaviour
 {
     [SerializeField] private float _moveSpeed = 5f;
-    //[SerializeField] private float _minJumpForce = 2500f;
-    //[SerializeField] private float _maxJumpForce = 5000f;
 
     public event Action OnRunning;
     public event Action OnIdle;
@@ -33,10 +31,4 @@ public class Mover : MonoBehaviour
             OnIdle?.Invoke();
         }
     }
-
-    //public void Jump(float chargePercent)
-    //{
-    //    float jumpForce = Mathf.Lerp(_minJumpForce, _maxJumpForce, chargePercent);
-    //    _rigidbody.AddForce(new Vector2(0, jumpForce));
-    //}
 }

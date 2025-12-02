@@ -27,11 +27,6 @@ public class PlayerVisualizer : MonoBehaviour
         _animator.SetBool(IsRunning, isRunning);
     }
 
-    //public void Jump()
-    //{
-    //    _animator.SetTrigger(IsJump);
-    //}
-
     public void TakePositions(Vector2 playerPosition, Vector2 mousePosition)
     {
         _playerPosition = playerPosition;
